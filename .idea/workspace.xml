@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b335206b-1d77-4786-8ca7-c96fe568ba54" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jE3ALUxUXkHutIKoSigG3zyMwO" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.JsonServiceTest">
+    <configuration name="DataSourceServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datax_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuejie.datax_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuejie.datax_demo" />
+      <option name="MAIN_CLASS_NAME" value="com.yuejie.datax_demo.DataSourceServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datax_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuejie.datax_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuejie.datax_demo" />
+      <option name="MAIN_CLASS_NAME" value="com.yuejie.datax_demo.JsonServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellBuildServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datax_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuejie.datax_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuejie.datax_demo" />
+      <option name="MAIN_CLASS_NAME" value="com.yuejie.datax_demo.ShellBuildServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bigdata2" type="Remote" show_console_on_std_err="true" show_console_on_std_out="true">
+      <module name="datax_demo" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="10.108.211.130" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="DataxDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="datax_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yuejie.datax_demo.DataxDemoApplication" />
+      <option name="VM_PARAMETERS" value="-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DataSourceServiceTest" />
+      <item itemvalue="JUnit.JsonServiceTest" />
+      <item itemvalue="JUnit.ShellBuildServiceTest" />
+      <item itemvalue="Remote.bigdata2" />
+      <item itemvalue="Spring Boot.DataxDemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JsonServiceTest" />
+        <item itemvalue="JUnit.ShellBuildServiceTest" />
+        <item itemvalue="JUnit.DataSourceServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b335206b-1d77-4786-8ca7-c96fe568ba54" name="Default Changelist" comment="" />
+      <created>1603355278263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603355278263</updated>
+      <workItem from="1603355283382" duration="4987000" />
+      <workItem from="1603420750067" duration="11266000" />
+      <workItem from="1603528181980" duration="12957000" />
+      <workItem from="1603592476865" duration="4186000" />
+      <workItem from="1603622717633" duration="3447000" />
+      <workItem from="1603671226172" duration="5606000" />
+      <workItem from="1603788168759" duration="2084000" />
+      <workItem from="1603847195059" duration="15701000" />
+      <workItem from="1604023692180" duration="1198000" />
+      <workItem from="1604048238259" duration="35000" />
+      <workItem from="1604110164628" duration="31000" />
+      <workItem from="1604657845656" duration="2562000" />
+      <workItem from="1604714107366" duration="30000" />
+      <workItem from="1604923489536" duration="1042000" />
+      <workItem from="1604980135121" duration="66000" />
+      <workItem from="1605081907762" duration="14131000" />
+      <workItem from="1605148495767" duration="5709000" />
+      <workItem from="1605511795037" duration="1847000" />
+      <workItem from="1605575894481" duration="211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
