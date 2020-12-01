@@ -1,0 +1,1 @@
+python D:\\datax\\bin\\datax.py D:\\datax\\job\\job.json
